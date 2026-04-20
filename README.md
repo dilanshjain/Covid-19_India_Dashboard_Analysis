@@ -33,7 +33,7 @@ using real-world datasets.
 - Male cases (72.24%) were significantly higher than female (27.76%)
 
 ## 🔗 Live Dashboard
-👉 [View on Tableau Public](your-tableau-public-link-here)
+👉 [View on Tableau Public](https://public.tableau.com/app/profile/dilansh.jain/viz/Covid19Project_17767074017150/Dashboard1)
 
 ## 👨‍💻 Author
 **Dilansh Jain**  
